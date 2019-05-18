@@ -2,9 +2,9 @@
 <img src="" width="400" alt="">
 </p>
 <h1 align="center">Vagas</h1>
-<p align="center">:book: Espaço para divulgação de vagas front-end para iniciantes e estudantes.</p>
+<p align="center">:book: Espaço para divulgação de vagas para iniciantes e estudantes.</p>
 
-# Vagas (Somente vagas Front-End destinada para iniciantes)
+# Vagas (Somente vagas destinada para iniciantes)
 
 Espaço para a divulgação de vagas para desenvolvedores iniciantes via _issues_ do Github.
 
@@ -12,9 +12,9 @@ Vagas disponíveis em https://github.com/felipenoka/vagas/issues
 
 ### Descrição
 
-Com o crescimento cada vez maior da área front, vem surgindo uma polarização muito grande de estudantes e autodidatas procurando oportunidade no mercado. Logo se deparam a diversas oportunidades que exigem experiências e acabam se frustrados por não conseguirem uma oportunidade, e muitas das vezes acabam desistindo de seguir a carreira como desenvolvedor.
+Com o crescimento cada vez maior da área de desenvolvimento, vem surgindo uma polarização muito grande de estudantes e autodidatas procurando oportunidade no mercado. Logo se deparam a diversas oportunidades que exigem experiências e acabam se frustrados por não conseguirem uma oportunidade, e muitas das vezes acabam desistindo de seguir a carreira como desenvolvedor.
 
-Para estimular o crescimento e o desenvolvimento desses profissionais, criei esse repositorio para que sejam postados apenas vagas para que aceitam iniciantes e estudantes da área de front.
+Para estimular o crescimento e o desenvolvimento desses profissionais, criei esse repositorio para que sejam postados apenas vagas para que aceitam iniciantes e estudantes.
 
 ### Cadastrando uma vaga
 
