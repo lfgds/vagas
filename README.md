@@ -22,7 +22,7 @@ Para estimular o crescimento e o desenvolvimento desses profissionais, criei ess
 
 Exemplo: `[São Paulo] Front-End Developer na [NOME DA EMPRESA]`
 
-2. Informe quais _labels_ devemos adicionar, contendo o nível de experiência desejada e a forma de contração.
+2. Informe quais _labels_ devemos adicionar e a forma de contração.
 
 **Atenção**: Não aceitaremos vagas sem o nome da empresa contratante.
 
